@@ -12,7 +12,7 @@ Add the `minread.min.js` snippet to your bookmark bar.
 
 Click the MinRead bookmark on a page with an article. Voila, the time should appear!
 
-## Current supported pages
+## Supported Pages
 
 - ArsTechnica
 - The Atlantic
